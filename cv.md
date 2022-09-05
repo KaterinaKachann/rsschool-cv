@@ -31,6 +31,7 @@ let OrderPeople = function(people){
 > I am planning to change my profession. I spend a lot of time on self-education. In the future, I want to create useful and beautiful applications. I have good multi-tasking skills, dedication
 and responsibility.
   
+
 ## Education
 
 > BSTU
